@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_Lambda.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\bin\Debug\Ybañez_MidAct4.exe.config
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\bin\Debug\Ybañez_MidAct4.exe
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\bin\Debug\Ybañez_MidAct4.pdb
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_MidAct4.Form1.resources
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_MidAct4.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_Lambda.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_MidAct4.exe
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_MidAct4.pdb
+C:\Users\Lenovo\Downloads\Ybañez_Lambda\obj\Debug\Ybañez_Lambda.Form1.resources

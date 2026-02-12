@@ -1,0 +1,6 @@
+C:\Users\ACT-STUDENT\Downloads\Cafe_Menu\obj\Debug\Cafe_Menu.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Cafe_Menu\obj\Debug\Ybañez_MidAct4.exe.config
+C:\Users\ACT-STUDENT\Downloads\Cafe_Menu\obj\Debug\Cafe_Menu.Form1.resources
+C:\Users\ACT-STUDENT\Downloads\Cafe_Menu\obj\Debug\Ybañez_MidAct4.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Downloads\Cafe_Menu\obj\Debug\Cafe_Menu.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Downloads\Cafe_Menu\obj\Debug\Cafe_Menu.csproj.CoreCompileInputs.cache
