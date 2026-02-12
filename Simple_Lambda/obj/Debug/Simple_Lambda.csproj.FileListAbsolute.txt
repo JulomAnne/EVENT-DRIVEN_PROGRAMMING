@@ -1,0 +1,6 @@
+C:\Users\ACT-STUDENT\Downloads\Simple_Lambda\obj\Debug\Simple_Lambda.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Simple_Lambda\obj\Debug\Ybanez_Lambda.exe.config
+C:\Users\ACT-STUDENT\Downloads\Simple_Lambda\obj\Debug\Simple_Lambda.Form1.resources
+C:\Users\ACT-STUDENT\Downloads\Simple_Lambda\obj\Debug\Ybanez_Lambda.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Downloads\Simple_Lambda\obj\Debug\Simple_Lambda.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Downloads\Simple_Lambda\obj\Debug\Simple_Lambda.csproj.CoreCompileInputs.cache
