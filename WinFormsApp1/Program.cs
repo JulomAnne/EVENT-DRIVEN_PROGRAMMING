@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace POS
 {
     internal static class Program
     {
