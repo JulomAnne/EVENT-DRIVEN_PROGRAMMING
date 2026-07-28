@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp1
+﻿namespace POS
 {
     partial class DashboardForm
     {
